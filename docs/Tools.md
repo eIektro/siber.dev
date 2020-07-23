@@ -2,6 +2,10 @@
 
 *wpscan
 
+## Tarayıcı Eklentileri
+
+*ChroPath = xpath almak için
+
 ## Kavramlar
 
 *auxiliary = araştırılacak
